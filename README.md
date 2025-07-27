@@ -43,7 +43,7 @@
       <li class="nav-item"><a class="nav-link" onclick="ubahTab('checklist')">Checklist</a></li>
       <li class="nav-item"><a class="nav-link" onclick="ubahTab('riwayat')">Riwayat</a></li>
       <li class="nav-item"><a class="nav-link" onclick="ubahTab('logout')">Logout</a></li>
-      <li class="nav-item"><a class="nav-link" onclick="ubahTab('sandi')"></a></li>
+      <li class="nav-item"><a class="nav-link" onclick="ubahTab('sandi')">Ubah Sandi</a></li>
     </ul>
 
     <div class="tab-content">
